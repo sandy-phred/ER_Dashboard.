@@ -2,7 +2,7 @@
 
 This repository contains a **Power BI Dashboard** created to analyze Emergency Room (ER) performance metrics. The dashboard is designed to support **healthcare leaders, administrators, and clinicians** in monitoring patient flow, wait times, and overall ER efficiency.  
 
----
+---[Dashboard Preview] (Dashboard_Preview.png)
 
 ## 📊 Project Overview
 Emergency departments are one of the most critical units in healthcare systems. They often face challenges such as:
